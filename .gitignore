@@ -1,3 +1,4 @@
 .env
 Release-24.08.0-0\
 env\
+node_modules\
