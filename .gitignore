@@ -1,4 +1,5 @@
 .env
-Release-24.08.0-0\
-env\
-node_modules\
+Release-24.08.0-0/
+env/
+node_modules/
+**/__pycache__/**
